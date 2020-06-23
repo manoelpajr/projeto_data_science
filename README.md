@@ -18,12 +18,11 @@ No entanto, após entrar na minha segunda graduação (Sistemas de Informação)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/manoel-alves-4a4a531b/)
-
-
+* [Twitter](https://twitter.com/manoel_pio)
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os projetos publicados no curso Data Science na Prática 2.0:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise exploratória inicial dos dados resumidos do Airbnb para a cidade de Buenos Aires:** 
 
 ---
