@@ -23,6 +23,6 @@ No entanto, após entrar na minha segunda graduação (Sistemas de Informação)
 ## Projetos:
 Veja os projetos publicados no curso Data Science na Prática 2.0:
 
-* **Análise exploratória inicial dos dados resumidos do Airbnb para a cidade de Buenos Aires:** https://bityli.com/1LeL8
+* **Análise exploratória inicial dos dados resumidos do Airbnb para a cidade de Buenos Aires:** https://bit.ly/2NyzD3e
 
 ---
