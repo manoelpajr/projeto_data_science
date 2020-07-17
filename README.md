@@ -24,7 +24,7 @@ No entanto, após entrar na minha segunda graduação (Sistemas de Informação)
 Veja os projetos publicados no curso Data Science na Prática 2.0:
 
 * **Análise exploratória inicial dos dados resumidos do Airbnb para a cidade de Buenos Aires:** https://bit.ly/380nMEC
-* **Análise dos dados sobre violência no Estado do Rio de Janeiro:** https://bit.ly/395Spcq
-* **Análise exploratória sobre dados do Dólar Futuro - DOLFUT:** https://bit.ly/3jb48Lp
+* **Análise dos dados da violência no Estado do Rio de Janeiro:** https://bit.ly/395Spcq
+* **Análise exploratória dos dados do Dólar Futuro - DOLFUT:** https://bit.ly/3jb48Lp
 
 ---
