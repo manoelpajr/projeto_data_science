@@ -10,11 +10,11 @@ Meu portfólio de projetos em Data Science
 # Manoel Pio
 <sub>*Data Science* student</sub>
 
-Formado em Geografia (bacharel e licenciado) pela Universidade Estadual de Londrina e graduando em Sistemas de Informação pela Facthus. Trabalhei doze anos como professor do ensino fundamental e médio, e sempre fui apaixonado por novas tecnologias, inclusive realizei projetos na área educacional envolvendo Geotecnologias. Além disso, fui produtor de material didático.
+Sou formado em Geografia (bacharel e licenciado), pela Universidade Estadual de Londrina e graduando em Sistemas de Informação, pela Facthus. Trabalhei por doze anos como professor do ensino fundamental e médio, e sempre fui apaixonado por novas tecnologias, inclusive realizei projetos na área educacional envolvendo Geotecnologias. Além disso, fui produtor de material didático.
 
-No entanto, após entrar na minha segunda graduação (Sistemas de Informação), tive a oportunidade de conhecer a área de Ciência de Dados a qual pretendo me aprofundar e tornar-me um profissional.
+No entanto, após entrar na minha segunda graduação (Sistemas de Informação), tive a oportunidade de conhecer a área de Ciência de Dados a qual pretendo me aprofundar e tornar-me um profissional. Abaixo encontra-se os links de alguns projetos desenvolvidos até o momento.
 
-**Background in:** Sistemas de Informação Geográfica (GIS), Bando de Dados Geográficos (Postgis) e Python.
+**Background in:** Sistemas de Informação Geográfica (GIS) - ArcGIS e Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/manoel-alves-4a4a531b/)
