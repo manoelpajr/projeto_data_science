@@ -20,7 +20,7 @@ Veja os projetos publicados no curso Data Science na Prática 2.0:
 
 * Formado em Geografia pela Universidade Estadual de Londrina
 * Graduando em Sistemas de Informação na Faculdade de Talentos Humanos - Facthus
-* Aluno do curso DataScince na Prática 2.0
+* Aluno do curso DataScience na Prática 2.0
 
 **Background in:** Sistemas de Informação Geográfica (GIS) - ArcGIS e Python.
 
