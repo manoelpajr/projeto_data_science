@@ -27,7 +27,6 @@ Veja os projetos publicados no curso Data Science na Prática 2.0:
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/manoel-alves-4a4a531b/)
-* [Twitter](https://twitter.com/manoel_pio)
 
 
 ---
