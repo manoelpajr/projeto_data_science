@@ -16,6 +16,7 @@ Veja os projetos publicados no curso Data Science na Prática 2.0:
 * **Análise dos dados da violência no Estado do Rio de Janeiro:** https://bit.ly/2BfxhEc
 * **Análise exploratória dos dados do Dólar Futuro - DOLFUT:** https://bit.ly/30k6mzq
 * **Panorama Mundial e Brasileiro para COVID-19:** https://bit.ly/3g9x6bD
+* **Panorama Mundial e Brasileiro sobre a COVID-19, versão 2:** https://bit.ly/2OB5V1H
 
 ### Sobre mim:
 
